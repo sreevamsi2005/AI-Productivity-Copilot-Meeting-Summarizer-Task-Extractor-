@@ -71,10 +71,3 @@ Meeting Summarizer is a web application that helps users effortlessly summarize 
    - "Copy" to copy the task details to clipboard
 7. Filter action items by assignee name using the input field
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
